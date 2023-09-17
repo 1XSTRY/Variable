@@ -49,6 +49,14 @@ public class Main {
         System.out.println(resultSubtraction);
         var resultRemainder = secondBoxer % firstBoxer;
         System.out.println(resultRemainder);
+        //task 8
+        var hours = 640;
+        var employeeHours = 8;
+        var employee = hours / employeeHours;
+        System.out.println(employee);
+        var employeeNew = 94;
+        System.out.println("if the company employs " + (employee + employeeNew) + " people then total " + (hours / (employee + employeeNew) ) + " hours of work can be divided between employees" );
+
 
 
 
