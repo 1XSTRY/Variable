@@ -55,7 +55,8 @@ public class Main {
         var employee = hours / employeeHours;
         System.out.println(employee);
         var employeeNew = 94;
-        System.out.println("if the company employs " + (employee + employeeNew) + " people then total " + (hours / (employee + employeeNew) ) + " hours of work can be divided between employees" );
+        System.out.println("if the company employs " + (employee + employeeNew) + " people +then total " + (hours / (employee + employeeNew) ) + " hours of work can be divided between employees" );
+        //add home work branch
 
 
 
