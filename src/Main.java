@@ -32,6 +32,13 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
+        var firsBoxer = 78.2;
+        var secondBoxer = 82.7;
+        var twoBoxers = firsBoxer + secondBoxer;
+        System.out.println("wight two boxers = " + twoBoxers);
+        var difference = secondBoxer - firsBoxer;
+        System.out.println("the difference between the two boxers is " + difference);
+
 
 
 
